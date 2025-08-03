@@ -6,7 +6,7 @@
 ## 🚀 Skills
 - HTML, CSS
 - DSA(in C)
-- React.js (Learning)
+- React.js
 - C, Python
 
 ## 📫 Connect with me
